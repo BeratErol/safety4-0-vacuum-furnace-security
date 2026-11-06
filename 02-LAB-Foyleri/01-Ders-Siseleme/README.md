@@ -10,3 +10,4 @@ Derste kullanılan örnek şişeleme hattına ait LAB cevaplarıdır. Çalışma
 | LAB 4 — Güvenli uzak erişim | [Oku](LAB-04-Guvenli-Uzak-Erisim.md) | [İndir](LAB-04-Guvenli-Uzak-Erisim.pdf) |
 | LAB 5 — SBOM / CVE / Patch | [Oku](LAB-05-SBOM-CVE-Patch.md) | [İndir](LAB-05-SBOM-CVE-Patch.pdf) |
 | LAB 6 — CRA olay simülasyonu | [Oku](LAB-06-CRA-Olay-Simulasyonu.md) | [İndir](LAB-06-CRA-Olay-Simulasyonu.pdf) |
+| LAB 7 — Yapay zekâ ve emniyet | [Oku](LAB-07-Yapay-Zeka-ve-Emniyet.md) | [İndir](LAB-07-Yapay-Zeka-ve-Emniyet.pdf) |
